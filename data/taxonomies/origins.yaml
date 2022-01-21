@@ -1,0 +1,109 @@
+category: ORIGINS AND CAUSES
+vocabulary:
+  - accident
+  - artificial
+  - bats
+  - biohazard
+  - biological
+  - biological warfare
+  - CCP
+  - china
+  - contagious
+  - cover-up
+  - cross-over
+  - deliberate
+  - engineered
+  - experiment
+  - exposure
+  - fort detrick
+  - function
+  - funding
+  - gain
+  - gene
+  - genetic
+  - gof
+  - grant
+  - infectious
+  - lab
+  - leak
+  - man-made
+  - modified
+  - mutation
+  - origin
+  - pangolin
+  - pathogen
+  - Porton Down
+  - protocols
+  - SARS
+  - theory
+  - vector
+  - viral warfare
+  - virology
+  - wet market
+  - WHO
+  - wuhan
+subcategories:
+  - category: WUHAN LAB
+    vocabulary:
+      - china
+      - chinese
+      - fort detrick
+      - lab
+      - laboratory
+      - man-made
+      - porton down
+      - wuhan
+    subcategories:
+      - category: BIOWEAPON
+        vocabulary:
+          - biological warfare
+          - bioweapon
+          - deliberate
+          - engineered
+          - ethical
+          - ethics
+          - event201
+          - financed
+          - genetic
+          - lab
+          - leak
+          - man-made
+          - modified
+          - terrorism
+          - terrorist
+      - category: ACCIDENTAL RELEASE
+        vocabulary:
+          - breach
+          - cross-over
+          - experiment
+          - exposure
+          - function
+          - funding
+          - gain
+          - grant
+          - lab
+          - leak
+          - research
+          - wuhan
+  - category: HISTORIOGRAPHICAL
+    vocabulary:
+      - black death
+      - spanish flu
+      - tuskegee
+  - category: ZOONOTIC
+    vocabulary:
+      - animals
+      - bats
+      - minks
+      - pangolin
+      - zoonotic
+  - category: 5G
+    vocabulary:
+      - 5G
+      - masts
+      - radiation
+  - category: EXTRATERRESTRIAL
+    vocabulary:
+      - alien
+      - asteroid
+      - comet
