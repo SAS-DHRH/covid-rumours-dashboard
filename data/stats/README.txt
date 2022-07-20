@@ -1,0 +1,1 @@
+The datasets in this directory originate from the covid-rumours-data repository (https://github.com/SAS-DHRH/covid-rumours-data/tree/master/build) with no additional processing.
