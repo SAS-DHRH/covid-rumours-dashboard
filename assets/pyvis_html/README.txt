@@ -1,0 +1,1 @@
+Pyvis (used for the word collocation network graphs in the Dashboard) generates HTML files on the fly and are temporarily saved in this directory. 

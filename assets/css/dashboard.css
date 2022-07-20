@@ -1,0 +1,46 @@
+h1#dashboard-tweets-explorer:before,
+h1#about-the-data:before {
+  content: 'Covid Rumours in Historical Context';
+  font-size: 1.5rem;
+  color: rgb(100, 100, 100);
+}
+h1#dashboard-tweets-explorer,
+h1#about-the-data {
+  padding-top: 0;
+  margin-bottom: 1em;
+}
+
+/* Typography */
+.element-container h2 {
+  margin-top: 1.5em;
+}
+
+div[data-testid="stMarkdownContainer"] p + ul {
+  margin-top: -1rem;
+}
+
+/* Forms */
+div[data-testid="stForm"] {
+  padding: 0;
+  border: none;
+}
+
+@media (min-width: 641px) {
+  div[data-testid="stForm"] div[data-testid="stHorizontalBlock"] button[kind="formSubmit"] {
+    width: 100%;
+    height: 2.9rem;
+    margin-top: 2rem;
+  }
+}
+
+/* Expanders */
+.streamlit-expander .streamlit-expanderHeader {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Iframe */
+section.main iframe {
+  margin-top: -1.5rem;
+}
+

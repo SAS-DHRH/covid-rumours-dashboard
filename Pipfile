@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "==1.10.0"
+pandas = "==1.4.2"
+networkx = "==2.8.3"
+altair = "==4.2.0"
+pyvis = "==0.2.1"
+matplotlib = "==3.5.2"
+pyyaml = "==6.0"
+
+[dev-packages]
+watchdog = "*"
+
+[requires]
+python_version = "3.9.8"
