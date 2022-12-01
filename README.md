@@ -152,7 +152,7 @@ $ git clone git@github.com:SAS-DHRH/covid-rumours-dashboard.git
 
 ## Reproduction steps
 
-The following describes the steps to reproduce the way in which we set up and run the Dashboard.
+The following describes the steps to reproduce the way in which we set up and run the Dashboard. We used MacBook Pro (Big Sur, Monterey), and Raspberry Pi 4 running Pi OS (Buster, Bullseye) and Ubuntu (20.04 LTS). 
 
 1. Install [Pyenv](https://github.com/pyenv/pyenv), following [the installation instructions](https://github.com/pyenv/pyenv#installation) as appropriate, and [set up shell environment for Pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv).
 
