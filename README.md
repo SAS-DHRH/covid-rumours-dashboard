@@ -25,7 +25,7 @@ Fox, Jo, David Coast, James Smith, and Martin Steer, "[COVID-19 rumours in histo
 
 The project's digital outputs have been published in three repositories:
 1. covid-rumours (to be released): Used for the data analysis, taxonomy and classifier modelling.
-1. covid-rumours-data (to be released): The complete tweet corpus.
+1. covid-rumours-data (to be released): Derivative data from the tweet corpus.
 1. covid-rumours-dashboard (this repository): The dashboard for exploring diachronic semantic fields in the data.
 
 For more information about each of these repositories, please see their respective README files.
