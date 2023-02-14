@@ -24,8 +24,8 @@ Fox, Jo, David Coast, James Smith, and Martin Steer, "[COVID-19 rumours in histo
 
 The project's digital outputs have been published in three repositories:
 1. covid-rumours (to be released): Used for the data analysis, taxonomy and classifier modelling.
-1. [covid-rumours-data](https://github.com/SAS-DHRH/covid-rumours-data): The complete tweet corpus.
-1. covid-rumours-dashboard (this repository): The dashboard for exploring diachronic semantic fields, in the data.
+1. covid-rumours-data (to be released): Derivative data from the tweet corpus.
+1. covid-rumours-dashboard (this repository): The dashboard for exploring diachronic semantic fields in the data.
 
 For more information about each of these repositories, please see their respective README files.
 
@@ -116,13 +116,6 @@ The Dashboard requires the following pre-installed on your computer:
 
 Additionally, [Watchdog](https://pypi.org/project/watchdog/) is recommended by Streamlit for improved performance.
 
-The installation, usage and reproduction steps below all assume that you have a terminal emulator, such as Terminal (macOS), Terminator (Linux) or PuTTY (Windows), installed on your computer and a basic knowledge of the command line.
-
-
-#### Virtual environment (optional)
-
-To maintain consistent development environment across different computers, we used [Pyenv](https://github.com/pyenv/pyenv) to manage Python version, and [Pipenv](https://pipenv.pypa.io/en/latest/) to create a virtual enviroment provisioned with specific versions of Python dependencies. This repository includes `.python-version` and `Pipfile` files which can be used to reproduce the virtual enviroment we used in this project (see [Reproduction Steps](#reproduction-steps) below).
-
 ### Installation
 
 [Download the Dashboard code](https://github.com/SAS-DHRH/covid-rumours-dashboard/archive/refs/heads/master.zip) and unzip it on your computer.
@@ -152,7 +145,9 @@ $ git clone git@github.com:SAS-DHRH/covid-rumours-dashboard.git
 
 ## Reproduction steps
 
-The following describes the steps to reproduce the way in which we set up and run the Dashboard. We used MacBook Pro (Big Sur, Monterey), and Raspberry Pi 4 running Pi OS (Buster, Bullseye) and Ubuntu (20.04 LTS). 
+The following describes the steps to reproduce the way in which we set up and run the Dashboard. We used MacBook Pro (Big Sur, Monterey), and Raspberry Pi 4 running Pi OS (Buster, Bullseye) and Ubuntu (20.04 LTS).
+
+To maintain consistent development environment across different computers, we used [Pyenv](https://github.com/pyenv/pyenv) to manage Python version, and [Pipenv](https://pipenv.pypa.io/en/latest/) to create a virtual enviroment provisioned with specific versions of Python dependencies. This repository includes `.python-version` and `Pipfile` files which can be used to reproduce the virtual enviroment we used in this project.
 
 1. Install [Pyenv](https://github.com/pyenv/pyenv), following [the installation instructions](https://github.com/pyenv/pyenv#installation) as appropriate, and [set up shell environment for Pyenv](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv).
 
